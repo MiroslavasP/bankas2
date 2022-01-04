@@ -1,0 +1,44 @@
+body {
+    width: 100vw;
+    // text-align: center;
+}
+
+.hat {
+    background-color: lightgreen;
+    width: 100vw;
+}
+
+.footer {
+    background-color: lightgreen;
+    text-align: center;
+    width: 100vw;
+}
+
+.exit {
+    color: red;
+}
+
+form {
+    padding-left: 10vw;
+    margin-left: 10vw;
+}
+
+table,
+th,
+td {
+    border: 2px solid blue;
+    border-collapse: collapse;
+}
+
+.sarasas {
+    margin-left: 5vw;
+}
+
+table {
+    width: 90vw;
+    margin: 0 auto;
+}
+
+thead {
+    background-color: chartreuse;
+}
